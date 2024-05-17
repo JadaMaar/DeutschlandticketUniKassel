@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeutschlandticketUniKassel</string>
+    <string name="no_ticket">Kein Ticket für den aktuellen Monat vorhanden.\n Bitte verbinde dich mit dem Internet, um das aktuelle Ticket zu erhalten.</string>
+</resources>
